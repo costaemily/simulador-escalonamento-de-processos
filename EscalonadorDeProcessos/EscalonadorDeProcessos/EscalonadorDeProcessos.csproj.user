@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="JobMaisCurto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MultiplasFilas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Prioridade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoundRobin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sorteio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
