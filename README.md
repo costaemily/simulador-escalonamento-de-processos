@@ -88,3 +88,5 @@ podem receber bilhetes extras, para aumentar suas chances de ganhar.
 - [x] SORTEIO
 - [ ] GARANTIDO
 
+## REFERÊNCIAS
+COLETTA, Alex. Escalonamento de Processos. [S. l.], 2003. Disponível em: https://alexcoletta.eng.br/artigos/escalonamento-de-processos/. Acesso em: 11 jun. 2021.
