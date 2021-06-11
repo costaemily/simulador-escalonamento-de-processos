@@ -36,12 +36,16 @@ que deseja fazer a simulação. Após essas configurações é só clicar no bot
  
 <br><img src="imgs/sorteio.JPG"/><br>
 
-## Como usar :question:
- 1. Digite a quantidade de bits de endereçamento de memória e offset que deseja;
- 2. Digite a quantidade de blocos desejada e clique no botão "Alocar";
- 3. Escolha um algoritmo de troca de páginas na lista e o selecione;
- 4. No grupo "Acessar memória" digite o endereço e deslocamento da página que deseja acessar, após clique no botão "Acessar";
- 5. Para limpar as memórias e a tabela de páginas, clique em "Limpar tudo" e comece a simulação novamente se desejar;
+
+## Dicas de como usar :question:
+ 1. Para limpar a simulação, é só clicar no botão "Limpar Simulação";
+ 2. Para obter ajuda, clique no botão :question:;
+ 3. Para voltar para a o menu, clique no botão :back: em vermelho;
+ 4. Para fechar a aplicação, clique no botão :x:;
+ 5. É possível excluir um processo. Selecione a linha do processo que deseja excluir e clique no botão "Excluir";
+ 6. É possível limpar a lista de processo, somente clicando no botão "Limpar Lista";
+ 7. Na tela de Múltiplas fila, para fazer a simulação é preciso que todas as filas que exitem processos tenham um algoritmo e quantum escolhido. Isso após adicionar todos os processos na lista de processos.
+ 
  
 ## Algoritmos :books:
 ### ROUND ROBIN
