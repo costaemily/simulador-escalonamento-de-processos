@@ -14,10 +14,18 @@ Este repositório contém um projeto que simula vários algoritmos de escanament
   
 <br><img src="imgs/menu.JPG"/><br>
 ### ROUND ROBIN
+ Nesta tela, é possível o usuário adicionar a cada processo, um tempo de execução. Após adicionar todos os processos desejados à lista de processos, o usuário escolhe o quantum
+que deseja fazer a simulação. Após essas configurações é só clicar no botão "Simular".
+
 <br><img src="imgs/roundRobin.JPG"/><br>
 ### PRIORIDADE
+ Nesta tela, é possível o usuário adicionar a cada processo, um tempo de execução e um grau de prioridade representada em números, sendo 1 prioridade alta e 10 baixa. Após adicionar todos os processos desejados à lista de processos, o usuário escolhe o quantum
+que deseja fazer a simulação. Após essas configurações é só clicar no botão "Simular".
+
 <br><img src="imgs/prioridade.JPG"/><br>
 ### MÚLTIPLAS FILAS
+ Já nesta tela, existem algumas configurações a mais, como por exemplo a escolha de algoritmo de escalonamento de cada fila. Após adicionar os processos às suas respectivas filas de prioridade, o usuário poderá selecionar o algoritmo desejado para escalonar cada fila. Semelhante as outras telas, existe a escolha do quantum para cada fila. Após essas configurações é só clicar no botão "Simular".
+ 
 <br><img src="imgs/multiplasFilas.JPG"/><br>
 ### JOB MAIS CURTO
 <br><img src="imgs/jobMaisCurto.JPG"/><br>
