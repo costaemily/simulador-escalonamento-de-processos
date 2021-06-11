@@ -1,4 +1,4 @@
-## Simulador de Escalonamento de Processos
+## :mag: Simulador de Escalonamento de Processos
 Este repositório contém um projeto que simula vários algoritmos de escanamento de processos.
 
 ## Interface :desktop_computer:<br>
@@ -28,8 +28,12 @@ que deseja fazer a simulação. Após essas configurações é só clicar no bot
  
 <br><img src="imgs/multiplasFilas.JPG"/><br>
 ### JOB MAIS CURTO
+ Nesta tela, é possível o usuário adicionar a cada processo um tempo de execução. Após adicionar todos os processos desejados à lista de processos é só clicar no botão "Simular".
+ 
 <br><img src="imgs/jobMaisCurto.JPG"/><br>
 ### SORTEIO
+ Nesta tela, é possível o usuário adicionar a cada processo um tempo de execução. Após adicionar todos os processos desejados à lista de processos é só clicar no botão "Simular".
+ 
 <br><img src="imgs/sorteio.JPG"/><br>
 
 ## Como usar :question:
